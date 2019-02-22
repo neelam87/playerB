@@ -1,0 +1,6 @@
+com\player1\PlayerApplication.class
+com\player1\controller\Player1Controller.class
+com\player1\controller\HomeController.class
+com\player1\util\LoggingInterceptor.class
+com\player1\service\Player1ServiceImpl.class
+com\player1\service\Player1Service.class
